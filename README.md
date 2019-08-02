@@ -4,7 +4,9 @@
 
 [![codecov](https://codecov.io/gh/wovert/TestTutorials/branch/master/graph/badge.svg)](https://codecov.io/gh/wovert/TestTutorials)
 
-## 单元测试
+## API 测试
+
+### 单元测试
 
 [chaijs.com](http://chaijs.com)
 
@@ -17,7 +19,7 @@ npm i chai --save-dev
 npm test
 ```
 
-## 测试覆盖率
+### 测试覆盖率
 
 [istanbul](https://github.com/gotwarlost/istanbul)
 
@@ -34,7 +36,7 @@ Branches     : 100% ( 0/0 ) 分支(if)
 Functions    : 100% ( 0/0 )
 Lines        : 100% ( 5/5 )
 
-## 持续集成
+### 持续集成
 
 - 频繁的将代码集成到主干
 - 每次集成都通过自动化的构建来验证
@@ -45,3 +47,12 @@ Lines        : 100% ( 5/5 )
 build:parsing
 
 [https://travis-ci.org/dwyl/esta]
+
+### 性能测试
+
+[benchmark.js](https://benchmarkjs.com/)
+
+[jsperf.com](https://jsperf.com)
+
+## UI 测试
+
