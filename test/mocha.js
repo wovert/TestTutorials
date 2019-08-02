@@ -35,7 +35,6 @@ describe('#math', () => {
     it('should return 4 when cover(1, 2)', () => {
       expect(cover(2, 2)).to.equal(4)
     })
-
   })
-  
+ 
 })
