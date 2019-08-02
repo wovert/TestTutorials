@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/wovert/TestTutorials.svg?branch=master)](https://travis-ci.org/wovert/TestTutorials)
 
+[![codecov](https://codecov.io/gh/wovert/TestTutorials/branch/master/graph/badge.svg)](https://codecov.io/gh/wovert/TestTutorials)
+
 ## 单元测试
 
 [chaijs.com](http://chaijs.com)
